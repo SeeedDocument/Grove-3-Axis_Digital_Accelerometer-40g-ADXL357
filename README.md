@@ -1,0 +1,1 @@
+# Grove-3-Axis_Digital_Accelerometer-40g-ADXL357
